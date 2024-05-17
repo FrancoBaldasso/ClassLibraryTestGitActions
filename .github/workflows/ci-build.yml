@@ -27,11 +27,11 @@ jobs:
         run: dotnet build --configuration Release --no-restore --framework  ${{ matrix.dotnet }}
  
         
-  build_all_in_net46:
+  build_all_in_net6:
     strategy:
       matrix:
         os: [ubuntu-latest]
-        dotnet: [ '6.0' ]
+        dotnet: [ 'net6.0' ]
         
     runs-on: ${{ matrix.os }}
     steps:
