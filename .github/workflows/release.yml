@@ -2,9 +2,8 @@ name: Publish to NuGet
 
 on:
   push:
-    tags:
-      - 'v*.*.*'  # Este workflow se activará al hacer push de un tag que siga el patrón vX.Y.Z (por ejemplo, v1.0.0)
-
+    branches: [ main ]
+    
 jobs:
   build:
     runs-on: ubuntu-latest
