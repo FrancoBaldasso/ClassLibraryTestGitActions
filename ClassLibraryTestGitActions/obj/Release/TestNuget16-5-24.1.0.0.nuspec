@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TestNuget16-5-24</id>
+    <version>1.0.0</version>
+    <title>TestNuget16-5-24</title>
+    <authors>FrancoBaldasso</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\franc\source\repos\ClassLibraryTestGitActions\ClassLibraryTestGitActions\bin\Release\net6.0\ClassLibraryTestGitActions.dll" target="lib\net6.0\ClassLibraryTestGitActions.dll" />
+  </files>
+</package>

@@ -1,0 +1,11 @@
+C:\Users\franc\source\repos\ClassLibraryTestGitActions\ClassLibraryTestGitActions\bin\Release\net6.0\ClassLibraryTestGitActions.deps.json
+C:\Users\franc\source\repos\ClassLibraryTestGitActions\ClassLibraryTestGitActions\bin\Release\net6.0\ClassLibraryTestGitActions.dll
+C:\Users\franc\source\repos\ClassLibraryTestGitActions\ClassLibraryTestGitActions\bin\Release\net6.0\ClassLibraryTestGitActions.pdb
+C:\Users\franc\source\repos\ClassLibraryTestGitActions\ClassLibraryTestGitActions\obj\Release\net6.0\ClassLibraryTestGitActions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\ClassLibraryTestGitActions\ClassLibraryTestGitActions\obj\Release\net6.0\ClassLibraryTestGitActions.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\ClassLibraryTestGitActions\ClassLibraryTestGitActions\obj\Release\net6.0\ClassLibraryTestGitActions.AssemblyInfo.cs
+C:\Users\franc\source\repos\ClassLibraryTestGitActions\ClassLibraryTestGitActions\obj\Release\net6.0\ClassLibraryTestGitActions.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\ClassLibraryTestGitActions\ClassLibraryTestGitActions\obj\Release\net6.0\ClassLibraryTestGitActions.dll
+C:\Users\franc\source\repos\ClassLibraryTestGitActions\ClassLibraryTestGitActions\obj\Release\net6.0\refint\ClassLibraryTestGitActions.dll
+C:\Users\franc\source\repos\ClassLibraryTestGitActions\ClassLibraryTestGitActions\obj\Release\net6.0\ClassLibraryTestGitActions.pdb
+C:\Users\franc\source\repos\ClassLibraryTestGitActions\ClassLibraryTestGitActions\obj\Release\net6.0\ref\ClassLibraryTestGitActions.dll
